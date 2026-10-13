@@ -4,7 +4,7 @@ Crypto clicker is an idle game/clicker where you click a Bitcoin, and use the Bi
 
 ## Run/Build project
 
-To run Crypto Clicker locally, follow these steps:
+To run Crypto Clicker locally, use Node.js 22.12 or newer and Yarn Classic.
 
 Clone the repository:
 
