@@ -1,8 +1,4 @@
-// import { render, screen } from '@testing-library/react';
-// import App from './App';
+import { test } from 'vitest';
 
-// test('renders learn react link', () => {
-//   render(<App />);
-//   const linkElement = screen.getByText(/learn react/i);
-//   expect(linkElement).toBeInTheDocument();
-// });
+// The original Create React App placeholder test was disabled.
+test.todo('renders learn react link');
