@@ -27,9 +27,9 @@ jobs:
         run: yarn build
 
       - name: Upload pages artifacts
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v3
         with:
           path: build
 
       - name: Deploy
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v4
