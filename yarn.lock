@@ -1237,9 +1237,9 @@ tr46@^7.0.0:
     punycode "^2.3.1"
 
 undici@^8.11.2:
-  version "8.12.2"
-  resolved "https://registry.npmjs.org/undici/-/undici-8.12.2.tgz#e869237430adcc5de6bca798c94edd7db9dac5ac"
-  integrity sha512-XtuDWVdqTLr3NAxm2ly9/hU6kUsJOgGh1RASzMBbsw6aWCOaQzHdW+QQDfdERjfJ2V5vL5pRPa4RetO9UfivDg==
+  version "8.12.4"
+  resolved "https://registry.npmjs.org/undici/-/undici-8.12.4.tgz#0c0cabeafd9a9c3139f9ace62ee9436c0d355c72"
+  integrity sha512-8Mx+uNKKER2bA4AdtedkqRbwUCIJFr2nJckXRe5yrDqzePqwLP7VNcctN8/XdmDSbF7mS+jJKIszlL+vbam1VA==
 
 vite@^8.3.4:
   version "8.3.4"
